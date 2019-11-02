@@ -1,6 +1,8 @@
 # Python-Tutorial
 Tutorial of Python
 
+[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
 ## Install Python on ArchLinux
 ```
 $ yaourt -S python3 python-pip
